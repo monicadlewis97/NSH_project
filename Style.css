@@ -1,0 +1,91 @@
+
+h1.initial_header{
+  color: gray;
+  width: 80;
+  margin-right:200px;
+  float: left;
+}
+p.accents_large{
+  background-color: purple;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-right: 0;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: 20px;
+  width: 500px;
+  border-radius: 10px;
+  display: inline-table;
+  text-align: center;
+  word-spacing: 30px;
+  position: static;
+
+
+}
+
+p.accents_small{
+  background-color: purple;
+  margin-top: 10%;
+  color: white;
+  padding-left: 0.75cm;
+  padding-right: 0.75cm;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+  height: 20px;
+  width: 100px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  top: -100px;
+}
+
+h1.line{
+  background-color: rgb(200, 200, 200);
+  height: 2px;
+  position: relative;
+  bottom: -50px;
+
+}
+p.paragraph_header{
+
+}
+
+p.blerb{
+  height: 200px;
+  width: 300px;
+  display: inline-table;
+  margin-right: 20px;
+
+}
+
+p.quote{
+  color: gray;
+  width: 600px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 30px;
+}
+
+p.picture_large{
+  margin-bottom: 300px;
+
+
+}
+
+p.bottom_of_page{
+  background-color: rgb(200, 200, 200);
+  height: 100px;
+  color: rgb(80,80,80);
+  word-spacing: 30px;
+  padding-left: 25px;
+  padding-top: 50px;
+}
+
+p.link{
+  color: rgb(80,80,80);
+  word-spacing: 30px;
+}
